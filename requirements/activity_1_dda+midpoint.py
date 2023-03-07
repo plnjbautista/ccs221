@@ -1,6 +1,6 @@
 #Activity 1 by Pauline Joy O. Bautista
 #Python program for DDA Line.
-import matplotlib pyplot 
+import matplotlib.pyplot as plt 
 import matplotlib.pyplot as buli
 plt.title('DDA Line Algorithm + Midpoint')
 plt.xlabel("X Axis")
